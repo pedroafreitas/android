@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Video App</string>
+    <string name="video_title">Avenida Brasil</string>
+    <string name="se_ep_subtitle">S1:E1</string>
+    <string name="comment_description">comment</string>
+    <string name="volume_btn_description">volume up description</string>
+    <string name="copy_btn_description">copy</string>
+    <string name="rate_btn_description">rate</string>
 </resources>
