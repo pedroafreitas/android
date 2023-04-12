@@ -6,4 +6,6 @@
     <string name="volume_btn_description">volume up description</string>
     <string name="copy_btn_description">copy</string>
     <string name="rate_btn_description">rate</string>
+    <string name="count_minutes">01:20</string>
+    <string name="video_length">45:34</string>
 </resources>
