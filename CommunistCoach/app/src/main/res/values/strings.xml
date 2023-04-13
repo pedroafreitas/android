@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Communist Coach</string>
+    <string name="new_phrase_btn">Our Phrase</string>
+    <string name="new_phrase_btn_desc">our button phrase</string>
+    <string name="new_phrase_content">Our Content</string>
+    <string name="our_image">our image</string>
+    <string name="our_author">our author</string>
+    <string name="our_icon">our icon</string>
+</resources>
