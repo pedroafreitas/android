@@ -55,7 +55,7 @@ public class MyAsyncTask extends AsyncTask<Void, Void, Quote> {
         URL url = new URL("https://api.api-ninjas.com/v1/quotes?category=history");
         HttpURLConnection connection = (HttpURLConnection) url.openConnection();
 
-        String apiKey = "";
+        String apiKey = "PktwBGv3JZNLTjHubn83Pg==yoREGRMlDDwvJwHb";
         setHeaders(connection, apiKey);
         int responseCode = connection.getResponseCode();
         System.out.println("Response Code: " + responseCode);
