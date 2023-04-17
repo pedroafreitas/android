@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="choose_option_text">Choose an option bellow</string>
+    <string name="result">Rock Paper Scissors</string>
+    <string name="win_text">You won!</string>
+    <string name="lose_text">You lost!</string>
+    <string name="draw_text">It\'s a Draw</string>
+    <string name="loading">loading...</string>
+</resources>
