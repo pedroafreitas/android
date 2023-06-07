@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Ethanol or gasoline</string>
+    <string name="subtitle">Saiba a melhor opção de combustível para seu carro</string>
+    <string name="ethanolHint">Preço etanol ex:1.90</string>
+    <string name="gasolineHint">Preço gasolina ex:1.90</string>
+    <string name="compute_btn">Calcular</string>
+    <string name="logo_description">logo\n</string>
+    <string name="field_error">Preencha todos os campos!</string>
+    <string name="result_gasoline">Melhor usar gasolina\n</string>
+    <string name="result_ethanol">Melhor usar Etanol</string>
 </resources>
