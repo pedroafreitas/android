@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prize Draw</string>
+    <string name="number_drawn">1</string>
+    <string name="number_drawn_100">100</string>
+    <string name="draw_result">\?</string>
+    <string name="all_numbers_drawn">All numbers were drawn!</string>
+</resources>
